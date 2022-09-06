@@ -1,0 +1,3 @@
+<metadata>
+  <attr path="/api/package[@name='com.google.json']" name="managedName">GoogleJson</attr>
+</metadata>

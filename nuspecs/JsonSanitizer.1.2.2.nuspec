@@ -1,0 +1,23 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JsonSanitizer</id>
+    <version>1.2.2</version>
+    <title>JsonSanitizer</title>
+    <authors>Enes Kuralay &amp; Ahmet Yemliha Öner</authors>
+    <owners>Enes Kuralay &amp; Ahmet Yemliha Öner</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <projectUrl>https://github.com/yemlihaoner/JsonSanitizer</projectUrl>
+    <description>JsonSanitizer - MikeSamuel JsonSanitizer</description>
+    <copyright>© Enes Kuralay &amp; Ahmet Yemliha Öner. All rights reserved.</copyright>
+    <tags>Enes Kuralay &amp; Ahmet Yemliha Öner JsonSanitizer</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid12.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="bin/Release/JsonSanitizer.dll" target="lib/monoandroid120/JsonSanitizer.dll" />
+    <file src="../../README.md" target="" />
+    <file src="../../LICENSE.txt" target="" />
+  </files>
+</package>
