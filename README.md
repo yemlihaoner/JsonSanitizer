@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.nuget.org/packages/JsonSanitizer/"><img src="https://img.shields.io/nuget/dt/JsonSanitizer?label=Downloads&color=%23007EC6&style=for-the-badge"alt="downloads"></a>
   <a href="https://www.nuget.org/packages/JsonSanitizer/"><img src="https://img.shields.io/nuget/v/JsonSanitizer?color=%23ed2a1c&style=for-the-badge" alt="Nuget version"></a>
-  <a href="/LICENCE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?color=%3bcc62&style=for-the-badge" alt="Licence"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?color=%3bcc62&style=for-the-badge" alt="Licence"></a>
 </p>
 
 ---
